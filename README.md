@@ -61,6 +61,29 @@ This repository contains a PyTorch implementation of a GPT-2-style Transformer m
 - **Output Projection**: tied with token embedding (optional)
 
 ---
+## Generation for example
+```
+ANGELO:
+And cowards it be strawn to my bed,
+And thrust the gates of my threats,
+Because he that ale away, and hang'd
+An one with him.
+
+DUKE VINCENTIO:
+I thank your eyes against it.
+
+DUKE VINCENTIO:
+Then will answer him to save the malm:
+And what have you tyrannous shall do this?
+
+DUKE VINCENTIO:
+If you have done evils of all disposition
+To end his power, the day of thrust for a common men
+That I leave, to fight with over-liking
+Hasting in a roseman.
+```
+
+---
 
 ## Note By
 I don't have a GPU, so I trained the model with 0.8M parameters only :).
